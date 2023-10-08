@@ -1,0 +1,19 @@
+{
+  "title": "iOS逆向工具：Hopper",
+  "description": "介绍iOS逆向的常用工具之前：Hopper。先是Hopper概览；然后是下载和安装，接着是如何使用；并且给出了具体例子，比如AwemeCore、Thunder等；且整理了相关心得；以及和IDA的对比。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ios_re_tool_hopper"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/ios_re_tool_hopper/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/ios_re_tool_hopper/pdf/ios_re_tool_hopper.pdf"
+    }
+  }
+}
