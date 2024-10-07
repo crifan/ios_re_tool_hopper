@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.0.0",
-  "lastUpdate": "20231008",
+  "latestVersion": "v1.0.1",
+  "lastUpdate": "20241007",
   "gitRepoName": "ios_re_tool_hopper",
   "bookName": "iOS逆向工具：Hopper",
   "bookDescription": "介绍iOS逆向的常用工具之前：Hopper。先是Hopper概览；然后是下载和安装，接着是如何使用；并且给出了具体例子，比如AwemeCore、Thunder等；且整理了相关心得；以及和IDA的对比。"
